@@ -1,4 +1,4 @@
-public class BSTNode {
+class BSTNode {
     int info;
     BSTNode left, right;
 
